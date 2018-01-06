@@ -31,4 +31,3 @@ def open_movies_page(movies):
 ## Built with 
 * [Bootstrap](http://bootstrapdocs.com/v3.0.3/docs/)  The Front-End Framework
 * [Python](https://www.python.org/)  used to generate dynamic page
-
