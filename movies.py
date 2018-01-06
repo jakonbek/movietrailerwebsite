@@ -33,7 +33,7 @@ get_out = media.Movies("Get Out",
                        "about a black man in a white nightmare, "
                        "the laughs come easily and then go in for the kill.",
                        "images/get_out.jpg",
-                       "https://www.youtube.com/watch?v=ZKXYnRuwhWI&feature=player_embedded",
+                       "https://www.youtube.com/watch?v=YfLSryEaAfw",
                        "Mystery/Thriller",
                        "Not Rated")
 lady_bird = media.Movies("Lady Bird",
