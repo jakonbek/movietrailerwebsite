@@ -1,5 +1,5 @@
 # Movie Trailer Website
-This website written in Python programming language and it  displays movies that has been named **The Best Movies of 2017** by New York Times newspaper. Webiste stores a list of the movies, including box art imagery and a movie trailer URL and it allows visitors to browse The Best Movies of 2017 movies , watch the trailers, see ratings of the movie and storyline of the movie. This project is  part of the Full Stack Web Developer Nanodeegree Programm at Udacity. 
+This website written in Python programming language and it  displays movies that has been named **The Best Movies of 2017** by New York Times newspaper. Webiste stores a list of the movies, including box art imagery and a movie trailer URL and it allows visitors to browse movies , watch the trailers, see ratings of the movie and storyline of the movie. This project is  part of the Full Stack Web Developer Nanodeegree Programm at Udacity. 
 
 ## Getting Started
 * To get started, fork this  [repository]("https://github.com/jakonbek/udacity-movietrailerwebsite") to GitHub 
@@ -14,7 +14,7 @@ Install object-oriented Python on Mac via Homebrew :
 
 Install Python on Windows [Download Python Windows](https://www.python.org/downloads/) 
 ## Running the tests
-After a succesfull installation of Python and downloading the project. Open the project in Python's IDE (IDLE) or in any IDE that work with Python. Run **media.py** file and it should render a web page with movies content.  The movie-website.py  module has a function called open_movies_page that takes in one argument, which is a list of movies, and creates an HTML file which will display all of your favorite movies.
+After a succesfull installation of Python and downloading the project. Open the project in Python's IDE (IDLE) or in any IDE that work with Python. Run **media.py** file and it should render a web page with movies content.  The movie-website.py  module has a function called open_movies_page that takes in one argument, which is a list of movies, and creates an HTML file which will display all  movies.
 ```
 def open_movies_page(movies):
   output_file = open('index.html', 'w')
