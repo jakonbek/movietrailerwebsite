@@ -2,8 +2,8 @@
 This website written in Python programming language and it  displays movies that has been named **The Best Movies of 2017** by New York Times newspaper. Webiste stores a list of the movies, including box art imagery and a movie trailer URL and it allows visitors to browse The Best Movies of 2017 movies , watch the trailers, see ratings of the movie and storyline of the movie. This project is  part of the Full Stack Web Developer Nanodeegree Programm at Udacity. 
 
 ## Getting Started
-* To get started, fork this  [repository]("http://www.example.com/coolcereals") to GitHub 
-* Clone the repo  `$git clone https://github.com/zkat/can.viewify.git`
+* To get started, fork this  [repository]("https://github.com/jakonbek/udacity-movietrailerwebsite") to GitHub 
+* Clone the repo  `$git clone https://github.com/jakonbek/udacity-movietrailerwebsite`
 
 ## Prerequisites
 Install object-oriented Python on Mac via Homebrew :
