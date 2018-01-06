@@ -15,5 +15,5 @@ class Movies:
 
 
 def show_trailer(self):
-        webbrowser.open(self.movie_genre)
+        webbrowser.open(self.trailer_youtube)
 
