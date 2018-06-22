@@ -3,7 +3,7 @@ This website written in Python programming language and it  displays movies that
 
 ## Getting Started
 * To get started, fork this  [repository]("https://github.com/jakonbek/movietrailerwebsite") to GitHub 
-* Clone the repo  `$git clone https://github.com/jakonbek/udacity-movietrailerwebsite`
+* Clone the repo  `$git clone https://github.com/jakonbek/movietrailerwebsite`
 
 ## Prerequisites
 Install object-oriented Python on Mac via Homebrew :
